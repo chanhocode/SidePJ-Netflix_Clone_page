@@ -3,15 +3,19 @@
 ## 프로젝트 소개
 
 <p align="justify">
-The Movie DB API를 활용한 넷플릭스 메인 페이지 구현
+The Movie DB API를 활용한 넷플릭스 페이지 구현
 </p>
 
 ## 기술 스택
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
-  [ React ]
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white">
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
 </div>
+
+## Preview
 
 ## 프로젝트 실행
 
@@ -29,3 +33,6 @@ The Movie DB API를 활용한 넷플릭스 메인 페이지 구현
 
 4. Movie Modal UI 구현
 
+5. react-router-dom 이용 페이지 적용
+
+6. 영화 검색 페이지 구현
