@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/SidePJ-Netflix_Clone_page/static/css/main.2e236f91.css",
+    "main.js": "/github.io/SidePJ-Netflix_Clone_page/static/js/main.50bff356.js",
+    "static/js/787.024e0564.chunk.js": "/github.io/SidePJ-Netflix_Clone_page/static/js/787.024e0564.chunk.js",
+    "static/media/logo.png": "/github.io/SidePJ-Netflix_Clone_page/static/media/logo.c0b93f125de267b27533.png",
+    "index.html": "/github.io/SidePJ-Netflix_Clone_page/index.html",
+    "main.2e236f91.css.map": "/github.io/SidePJ-Netflix_Clone_page/static/css/main.2e236f91.css.map",
+    "main.50bff356.js.map": "/github.io/SidePJ-Netflix_Clone_page/static/js/main.50bff356.js.map",
+    "787.024e0564.chunk.js.map": "/github.io/SidePJ-Netflix_Clone_page/static/js/787.024e0564.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e236f91.css",
+    "static/js/main.50bff356.js"
+  ]
+}
