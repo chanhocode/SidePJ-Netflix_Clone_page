@@ -32,7 +32,7 @@ const Nav = () => {
       <img
         alt='Netflix logo'
         src={logo}
-        onClick={() => (window.location.href = '/')}
+        onClick={() => (window.location.href = '/SidePJ-Netflix_Clone_page')}
         className='nav__logo'
       />
       <input
