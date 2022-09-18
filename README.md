@@ -4,6 +4,9 @@
 
 <p align="justify">
 The Movie DB API를 활용한 넷플릭스 페이지 구현
+
+[배포 페이지 바로가기](https://chanhocode.github.io/SidePJ-Netflix_Clone_page)
+
 </p>
 
 ## 기술 스택
@@ -16,8 +19,8 @@ The Movie DB API를 활용한 넷플릭스 페이지 구현
 </div>
 
 ## Preview
-![preview1](https://user-images.githubusercontent.com/105937460/190914263-0f9fa831-4978-4d18-aaaa-4c74427e6a65.gif)![preview2](https://user-images.githubusercontent.com/105937460/190914285-8a01557b-3267-492e-805e-08c805b2c763.gif)
 
+![preview1](https://user-images.githubusercontent.com/105937460/190914263-0f9fa831-4978-4d18-aaaa-4c74427e6a65.gif)![preview2](https://user-images.githubusercontent.com/105937460/190914285-8a01557b-3267-492e-805e-08c805b2c763.gif)
 
 ## 프로젝트 실행
 
