@@ -20,7 +20,11 @@ The Movie DB API를 활용한 넷플릭스 페이지 구현
 
 ## Preview
 
+<div align=center>
+
 ![preview1](https://user-images.githubusercontent.com/105937460/190914263-0f9fa831-4978-4d18-aaaa-4c74427e6a65.gif)![preview2](https://user-images.githubusercontent.com/105937460/190914285-8a01557b-3267-492e-805e-08c805b2c763.gif)
+
+</div>
 
 ## 프로젝트 실행
 
